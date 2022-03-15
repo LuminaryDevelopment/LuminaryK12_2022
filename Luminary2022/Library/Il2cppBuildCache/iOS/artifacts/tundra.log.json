@@ -1,0 +1,7 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"inputSignatureChanged","annotation":"Il2Cpp D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput","index":1,"changes":[{"key":"InputFileDigest","path":"D:\\UNITY\\Luminary2022\\Temp\\StagingArea\\Data\\Managed\\Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.dll","dependency":"explicit"}]}
+{"msg":"noderesult","annotation":"Il2Cpp D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput","index":1,"exitcode":0}
+{"msg":"nodeOutputsMissing","annotation":"Copy Additional C++ File D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp","index":2,"files":["D:\\UNITY\\Luminary2022\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp"],"directories":[]}
+{"msg":"nodeOutputsMissing","annotation":"Copy Additional C++ File D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp","index":3,"files":["D:\\UNITY\\Luminary2022\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp"],"directories":[]}
+{"msg":"noderesult","annotation":"Copy Additional C++ File D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp","index":2,"exitcode":0}
+{"msg":"noderesult","annotation":"Copy Additional C++ File D:/UNITY/Luminary2022/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp","index":3,"exitcode":0}
